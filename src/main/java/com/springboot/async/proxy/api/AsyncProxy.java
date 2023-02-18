@@ -1,2 +1,5 @@
-package com.springboot.async.proxy.api;public interface AsyncProxy {
+package com.springboot.async.proxy.api;
+
+public interface AsyncProxy {
+    Object proxy();
 }
